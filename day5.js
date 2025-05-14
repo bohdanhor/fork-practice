@@ -30,7 +30,7 @@ let number2 = 5;
 if (number1 > number2) {
   console.log("Number 1 is bigger.");
 } else {
-  console.log("Number 2 is bigger or equal.")
+  console.log("Number 2 is bigger or equal.");
 }
 
 let total = 10 + 5;
